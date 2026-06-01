@@ -1,7 +1,7 @@
 url,main language,stars,owner,project,branch
 https://github.com/torvalds/linux,C,171k,torvalds,linux,master
 https://github.com/Genymobile/scrcpy,C,103k,Genymobile,scrcpy,master
-https://github.com/firehol/netdata,C,68k,firehol,netdata,master
+https://github.com/netdata/netdata,C,68k,netdata,netdata,master
 https://github.com/antirez/redis,C,65.1k,antirez,redis,unstable
 https://github.com/ventoy/Ventoy,C,58.2k,ventoy,Ventoy,master
 https://github.com/obsproject/obs-studio,C,56k,obsproject,obs-studio,master
@@ -12,7 +12,7 @@ https://github.com/wg/wrk,C,36.9k,wg,wrk,master
 https://github.com/curl/curl,C,34.4k,curl,curl,master
 https://github.com/tmux/tmux,C,33.2k,tmux,tmux,master
 https://github.com/Bilibili/ijkplayer,C,32.1k,Bilibili,ijkplayer,master
-https://github.com/ggerganov/whisper.cpp,C,31.8k,ggerganov,whisper.cpp,master
+https://github.com/ggml-org/whisper.cpp,C,31.8k,ggml-org,whisper.cpp,master
 https://github.com/jqlang/jq,C,29.2k,jqlang,jq,master
 https://github.com/coolsnowwolf/lede,C,28.8k,coolsnowwolf,lede,master
 https://github.com/pbatard/rufus,C,27k,pbatard,rufus,master
@@ -26,7 +26,7 @@ https://github.com/taosdata/TDengine,C,22.9k,taosdata,TDengine,main
 https://github.com/robertdavidgraham/masscan,C,22.7k,robertdavidgraham,masscan,master
 https://github.com/facebook/zstd,C,22.5k,facebook,zstd,dev
 https://github.com/valinet/ExplorerPatcher,C,22k,valinet,ExplorerPatcher,master
-https://github.com/koekeishiya/yabai,C,21.8k,koekeishiya,yabai,master
+https://github.com/asmvik/yabai,C,21.8k,asmvik,yabai,master
 https://github.com/arendst/Tasmota,C,21.4k,arendst,Tasmota,development
 https://github.com/kingToolbox/WindTerm,C,20.8k,kingToolbox,WindTerm,master
 https://github.com/microsoft/PowerToys,C#,105k,microsoft,PowerToys,main
@@ -56,9 +56,8 @@ https://github.com/QL-Win/QuickLook,C#,16.3k,QL-Win,QuickLook,master
 https://github.com/netchx/netch,C#,16k,netchx,netch,main
 https://github.com/ppy/osu,C#,14.4k,ppy,osu,master
 https://github.com/dotnet/runtime,C#,14.2k,dotnet,runtime,main
-https://github.com/OpenRA/OpenRA,C#,14.2k,OpenRA,OpenRA,bleed
-https://github.com/rocksdanister/lively,C#,14.2k,rocksdanister,lively,core-separation
 https://github.com/OpenRA/OpenRA,C#,14.8k,OpenRA,OpenRA,bleed
+https://github.com/rocksdanister/lively,C#,14.2k,rocksdanister,lively,core-separation
 https://github.com/nilaoda/N_m3u8DL-CLI,C#,14.5k,nilaoda,N_m3u8DL-CLI,master
 https://github.com/tensorflow/tensorflow,C++,183k,tensorflow,tensorflow,master
 https://github.com/facebook/react-native,C++,116k,facebook,react-native,main
@@ -67,11 +66,11 @@ https://github.com/microsoft/terminal,C++,93.7k,microsoft,terminal,main
 https://github.com/godotengine/godot,C++,84.5k,godotengine,godot,master
 https://github.com/bitcoin/bitcoin,C++,76.4k,bitcoin,bitcoin,master
 https://github.com/opencv/opencv,C++,75.9k,opencv,opencv,4.x
-https://github.com/apple/swift,C++,66.1k,apple,swift,main
+https://github.com/swiftlang/swift,C++,66.1k,swiftlang,swift,main
 https://github.com/nomic-ai/gpt4all,C++,65.1k,nomic-ai,gpt4all,main
 https://github.com/protocolbuffers/protobuf,C++,63.8k,protocolbuffers,protobuf,main
 https://github.com/tesseract-ocr/tesseract,C++,58.5k,tesseract-ocr,tesseract,main
-https://github.com/ggerganov/llama.cpp,C++,58.3k,ggerganov,llama.cpp,master
+https://github.com/ggml-org/llama.cpp,C++,58.3k,ggml-org,llama.cpp,master
 https://github.com/ocornut/imgui,C++,56.3k,ocornut,imgui,master
 https://github.com/topjohnwu/Magisk,C++,44.6k,topjohnwu,Magisk,master
 https://github.com/x64dbg/x64dbg,C++,43.3k,x64dbg,x64dbg,development
@@ -101,7 +100,7 @@ https://github.com/CarGuo/gsy_github_app_flutter,Dart,14.6k,CarGuo,gsy_github_ap
 https://github.com/GopeedLab/gopeed,Dart,14.2k,GopeedLab,gopeed,main
 https://github.com/cfug/dio,Dart,12.2k,cfug,dio,main
 https://github.com/felangel/bloc,Dart,11.4k,felangel,bloc,master
-https://github.com/hiddify/hiddify-next,Dart,10k,hiddify,hiddify-next,main
+https://github.com/hiddify/hiddify-app,Dart,10k,hiddify,hiddify-app,main
 https://github.com/jonataslaw/getx,Dart,9.9k,jonataslaw,getx,master
 https://github.com/dart-lang/sdk,Dart,9.8k,dart-lang,sdk,main
 https://github.com/flame-engine/flame,Dart,8.8k,flame-engine,flame,main
@@ -116,7 +115,7 @@ https://github.com/2d-inc/HistoryOfEverything,Dart,6.4k,2d-inc,HistoryOfEverythi
 https://github.com/imaNNeo/fl_chart,Dart,6.4k,imaNNeo,fl_chart,main
 https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard,Dart,6.4k,abuanwar072,Flutter-Responsive-Admin-Panel-or-Dashboard,master
 https://github.com/ImranR98/Obtainium,Dart,5.3k,ImranR98,Obtainium,main
-https://github.com/wanghongenpin/network_proxy_flutter,Dart,4.9k,wanghongenpin,network_proxy_flutter,main
+https://github.com/wanghongenpin/proxypin,Dart,4.9k,wanghongenpin,proxypin,main
 https://github.com/mulaRahul/keyviz,Dart,4.6k,mulaRahul,keyviz,main
 https://github.com/guozhigq/pilipala,Dart,4.5k,guozhigq,pilipala,main
 https://github.com/ionicfirebaseapp/getwidget,Dart,4.4k,ionicfirebaseapp,getwidget,master
@@ -157,7 +156,7 @@ https://github.com/google/guava,Java,49.5k,google,guava,master
 https://github.com/NationalSecurityAgency/ghidra,Java,48.1k,NationalSecurityAgency,ghidra,master
 https://github.com/ReactiveX/RxJava,Java,47.7k,ReactiveX,RxJava,3.x
 https://github.com/apache/dubbo,Java,40.1k,apache,dubbo,3.3
-https://github.com/jeecgboot/jeecg-boot,Java,38k,jeecgboot,jeecg-boot,master
+https://github.com/jeecgboot/JeecgBoot,Java,38k,jeecgboot,JeecgBoot,master
 https://github.com/dbeaver/dbeaver,Java,37.7k,dbeaver,dbeaver,devel
 https://github.com/PhilJay/MPAndroidChart,Java,37.3k,PhilJay,MPAndroidChart,master
 https://github.com/alibaba/arthas,Java,34.8k,alibaba,arthas,master
@@ -186,7 +185,7 @@ https://github.com/Significant-Gravitas/AutoGPT,JavaScript,162k,Significant-Grav
 https://github.com/vercel/next.js,JavaScript,121k,vercel,next.js,canary
 https://github.com/nodejs/node,JavaScript,104k,nodejs,node,main
 https://github.com/axios/axios,JavaScript,104k,axios,axios,v1.x
-https://github.com/facebook/create-react-app,JavaScript,102k,facebook,create-react-app,main
+https://github.com/react/create-react-app,JavaScript,102k,react,create-react-app,main
 https://github.com/mrdoob/three.js,JavaScript,99.4k,mrdoob,three.js,dev
 https://github.com/sveltejs/svelte,JavaScript,76.8k,sveltejs,svelte,main
 https://github.com/mermaid-js/mermaid,JavaScript,67.6k,mermaid-js,mermaid,develop
@@ -289,7 +288,7 @@ https://github.com/bcit-ci/CodeIgniter,PHP,18.3k,bcit-ci,CodeIgniter,develop
 https://github.com/nikic/PHP-Parser,PHP,16.8k,nikic,PHP-Parser,master
 https://github.com/briannesbitt/Carbon,PHP,16.5k,briannesbitt,Carbon,master
 https://github.com/coollabsio/coolify,PHP,16.4k,coollabsio,coolify,main
-https://github.com/barryvdh/laravel-debugbar,PHP,16.2k,barryvdh,laravel-debugbar,master
+https://github.com/fruitcake/laravel-debugbar,PHP,16.2k,fruitcake,laravel-debugbar,master
 https://github.com/koel/koel,PHP,15.5k,koel,koel,master
 https://github.com/erusev/parsedown,PHP,14.7k,erusev,parsedown,master
 https://github.com/firefly-iii/firefly-iii,PHP,14.4k,firefly-iii,firefly-iii,main
@@ -308,7 +307,7 @@ https://github.com/nvbn/thefuck,Python,83.1k,nvbn,thefuck,master
 https://github.com/pytorch/pytorch,Python,78.6k,pytorch,pytorch,main
 https://github.com/django/django,Python,77.2k,django,django,main
 https://github.com/yt-dlp/yt-dlp,Python,72.5k,yt-dlp,yt-dlp,master
-https://github.com/tiangolo/fastapi,Python,71.7k,tiangolo,fastapi,master
+https://github.com/fastapi/fastapi,Python,71.7k,fastapi,fastapi,master
 https://github.com/home-assistant/core,Python,69.1k,home-assistant,core,dev
 https://github.com/pallets/flask,Python,66.6k,pallets,flask,main
 https://github.com/fighting41love/funNLP,Python,64.7k,fighting41love,funNLP,master
@@ -329,7 +328,7 @@ https://github.com/psf/requests,Python,51.4k,psf,requests,main
 https://github.com/abi/screenshot-to-code,Python,51.4k,abi,screenshot-to-code,main
 https://github.com/scrapy/scrapy,Python,51.2k,scrapy,scrapy,master
 https://github.com/CorentinJ/Real-Time-Voice-Cloning,Python,51k,CorentinJ,Real-Time-Voice-Cloning,master
-https://github.com/gpt-engineer-org/gpt-engineer,Python,50.8k,gpt-engineer-org,gpt-engineer,main
+https://github.com/AntonOsika/gpt-engineer,Python,50.8k,AntonOsika,gpt-engineer,main
 https://github.com/rails/rails,Ruby,55k,rails,rails,main
 https://github.com/jekyll/jekyll,Ruby,48.4k,jekyll,jekyll,master
 https://github.com/mastodon/mastodon,Ruby,46.1k,mastodon,mastodon,main
@@ -386,7 +385,7 @@ https://github.com/influxdata/influxdb,Rust,27.9k,influxdata,influxdb,main
 https://github.com/astral-sh/ruff,Rust,27.1k,astral-sh,ruff,main
 https://github.com/pola-rs/polars,Rust,26.6k,pola-rs,polars,main
 https://github.com/surrealdb/surrealdb,Rust,25.7k,surrealdb,surrealdb,main
-https://github.com/vercel/turbo,Rust,25.1k,vercel,turbo,main
+https://github.com/vercel/turborepo,Rust,25.1k,vercel,turborepo,main
 https://github.com/tokio-rs/tokio,Rust,24.9k,tokio-rs,tokio,master
 https://github.com/fish-shell/fish-shell,Rust,24.7k,fish-shell,fish-shell,master
 https://github.com/firecracker-microvm/firecracker,Rust,26.5k,firecracker-microvm,firecracker,main
@@ -429,7 +428,7 @@ https://github.com/ant-design/ant-design,TypeScript,90.4k,ant-design,ant-design,
 https://github.com/puppeteer/puppeteer,TypeScript,87k,puppeteer,puppeteer,main
 https://github.com/tailwindlabs/tailwindcss,TypeScript,78.9k,tailwindlabs,tailwindcss,next
 https://github.com/excalidraw/excalidraw,TypeScript,74k,excalidraw,excalidraw,master
-https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web,TypeScript,69.8k,ChatGPTNextWeb,ChatGPT-Next-Web,main
+https://github.com/ChatGPTNextWeb/NextChat,TypeScript,69.8k,ChatGPTNextWeb,NextChat,main
 https://github.com/supabase/supabase,TypeScript,66.8k,supabase,supabase,master
 https://github.com/coder/code-server,TypeScript,65.7k,coder,code-server,main
 https://github.com/vitejs/vite,TypeScript,65.1k,vitejs,vite,main
