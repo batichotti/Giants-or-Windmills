@@ -1,4 +1,4 @@
-# Colossal-Files-Research
+# Giants-or-Windmills
 
 # 📊 Analysis of Top GitHub Projects Across Popular Programming Languages
 
