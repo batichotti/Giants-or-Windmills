@@ -94,7 +94,7 @@ A `requirements.txt` is provided at the repository root. Install it as described
 3. Install Python dependencies:
 
 	```bash
-	pip install -r requirements.txt
+	pip install -r requiriments.txt
 	```
 
 4. Install CLoC (Count Lines of Code) if not already installed. Follow the instructions on the [CLoC GitHub page](https://github.com/aldanial/cloc).
