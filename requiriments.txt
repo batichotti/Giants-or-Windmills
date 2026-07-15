@@ -1,0 +1,7 @@
+git>=2.45.0
+pandas>=2.2.2
+numpy>=2.0.1
+pydriller>=2.7
+matplotlib>=3.9.2
+adjustText>=1.2.0
+statsmodels>=0.14.2
