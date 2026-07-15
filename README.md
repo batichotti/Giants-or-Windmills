@@ -64,7 +64,7 @@ The objectives of this project are to:
 
 ### Hardware / storage
 
-- **Disk space:** at least **300 GB free** is recommended. The pipeline clones the full commit history of 450 repositories, several of which are large (some individual repositories can exceed several GB), and intermediate `output/` folders across the 41 stages also consume disk space.
+- **Disk space:** at least **1 TB free** is recommended. The pipeline clones the full commit history of 450 repositories, several of which are large (some individual repositories can exceed several GB), and intermediate `output/` folders across the 41 stages also consume disk space.
 - **RAM:** at least **8 GB** recommended; some stages that process full commit histories with PyDriller/Pandas may benefit from **16 GB** on larger repositories.
 - **CPU:** a multi-core machine is recommended to keep repository mining and CLoC analysis within a reasonable time; no GPU is required.
 - **Runtime:** cloning and mining 450 repositories' full history is time-consuming; running the complete pipeline end-to-end can take from several hours to more than a month depending on network speed and hardware.
