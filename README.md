@@ -6,7 +6,7 @@ This repository offers a comprehensive analysis of the **30 most-starred GitHub 
 
 ## 📄 Accepted Paper
 
-The accepted paper associated with this artifact is available here: [PDF do artigo](./paper.pdf).
+The accepted paper associated with this artifact is available here: [PDF do artigo](./Giants_or_Windmills.pdf).
 
 ## 📁 Artifact Organization
 
