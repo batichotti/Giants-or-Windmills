@@ -1,4 +1,4 @@
-# Giants-or-Windmills
+# Giants-or-Windmills [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21366286.svg)](https://doi.org/10.5281/zenodo.21366286)
 
 # 📊 Analysis of Top GitHub Projects Across Popular Programming Languages
 
