@@ -2,7 +2,7 @@ url,main language,stars,owner,project,branch
 https://github.com/torvalds/linux,C,171k,torvalds,linux,master
 https://github.com/Genymobile/scrcpy,C,103k,Genymobile,scrcpy,master
 https://github.com/netdata/netdata,C,68k,netdata,netdata,master
-https://github.com/antirez/redis,C,65.1k,antirez,redis,unstable
+https://github.com/redis/redis,C,65.1k,redis,redis,unstable
 https://github.com/ventoy/Ventoy,C,58.2k,ventoy,Ventoy,master
 https://github.com/obsproject/obs-studio,C,56k,obsproject,obs-studio,master
 https://github.com/git/git,C,50.3k,git,git,master
